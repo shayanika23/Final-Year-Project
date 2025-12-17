@@ -1,0 +1,5 @@
+flask
+ultralytics
+opencv-python
+
+# pip install -r requirements.txt
