@@ -1,12 +1,9 @@
-# Python
-Backend/venv/
-Backend/__pycache__/
-*.pt
-
-# Node
-node_modules/
-dist/
-
-# Env
-.env
 venv/
+__pycache__/
+*.pyc
+.DS_Store
+.vscode/
+Backend/uploads/
+Backend/detections.db
+train image/
+*.pt
