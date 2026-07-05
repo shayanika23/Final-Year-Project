@@ -1,9 +1,16 @@
-venv/
+# Python ignores
 __pycache__/
 *.pyc
+venv/
+
+# Environment and Data
+.env
+detections.db
+uploads/
+
+# Model file
+best.pt
+
+# System files
 .DS_Store
 .vscode/
-Backend/uploads/
-Backend/detections.db
-train image/
-*.pt
