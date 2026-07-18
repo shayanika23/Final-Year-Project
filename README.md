@@ -30,9 +30,7 @@ Crime scene investigation traditionally relies on manual inspection, which is sl
 - Vite
 - Tailwind CSS
 
-**Hosting**
-- Backend: Hugging Face Spaces (Docker SDK)
-- Frontend: Netlify
+
 
 ## Project Structure
 
