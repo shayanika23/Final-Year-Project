@@ -2,7 +2,7 @@
 
 An AI-powered forensic evidence detection system that uses a custom-trained YOLO model to identify objects such as weapons, bloodstains, bullets, and casings in crime scene images. Built as a final-year B.Tech Computer Science & Engineering project.
 
-🔗 **Live Demo:** [https://dapper-dusk-552c06.netlify.app](https://dapper-dusk-552c06.netlify.app)
+🔗 **Live Demo:** [https://yolo-ai-crimescene-analysis.netlify.app](https://yolo-ai-crimescene-analysis.netlify.app)
 🔗 **Backend API:** [https://joyhacker121-final-year-project.hf.space](https://joyhacker121-final-year-project.hf.space)
 
 ---
