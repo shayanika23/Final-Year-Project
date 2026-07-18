@@ -112,21 +112,9 @@ The app will run on `http://localhost:5173`. Update the API URL in `src/App.tsx`
 3. Deploy the resulting `dist/` folder via [Netlify Drop](https://app.netlify.com/drop)
 4. Claim the deployment with a free Netlify account to make it permanent
 
-## Team
 
-| Name | Registration No. |
-|---|---|
-| Shayanika Das | 221420110192 |
-| Rohan Ghosh | 221420110165 |
-| Usashi Saha | 221420110241 |
-| Aahana Malakar | 221420110056 |
-| Souradeep Acharyya | 221420110212 |
-| Amir Sohel Sarkar Masum | 221420110073 |
 
-**Supervisor:** Mr. Soumya Suvra Khan, Assistant Professor, Department of Computer Science & Engineering
 
-**Institution:** Meghnad Saha Institute of Technology, Kolkata, affiliated with Maulana Abul Kalam Azad University of Technology, West Bengal (Session 2025-26)
 
-## Disclaimer
 
-This project is a research and academic prototype. Detection outputs are model-generated confidence scores and are **not conclusive forensic determinations**. Any real-world forensic use requires review by qualified professionals.
+
